@@ -1,11 +1,11 @@
-basic python network sniffer using scarpy.
+basic python network sniffer using scapy.
 
 real time network sniffer.
 
 
 
 <br><br><br>
-git clone https://github.com/bhaskardharma/codealpha_tasks.git <br>
-cd codealpha-task <br>
+git clone https://github.com/bhaskardharma/codealpha_network_sniffing.git <br>
+cd codealpha-network_sniffing <br>
 python sniffer.py
 
